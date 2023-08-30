@@ -8,7 +8,10 @@
     [
         {"id":"抽奖机会","action":"放弃福利"},
         {"id":"1分钟小调研","action":"iv_cancel"},
-        {"id":"应用内更新权限","action":"buttonDefaultNegative"}
+        {"id":"应用内更新权限","action":"buttonDefaultNegative"},
+
+
+        {"id":"497,1895,583,1981","action":"497,1895,583,1981"}
     ]
 }
 ```
@@ -18,19 +21,25 @@
 - [{"id":"应用内更新权限","action":"buttonDefaultNegative"}](#id应用内更新权限actionbuttondefaultnegative)
 
 ### {"id":"抽奖机会","action":"放弃福利"}
-去除 “限时分享福利” 弹窗
+关闭 “限时分享福利” 弹窗
 
 ![](./assets/分享福利弹窗.jpg)
 
 ### {"id":"1分钟小调研","action":"iv_cancel"}
-去除 “1分钟小调研” 提示信息
+关闭 “1分钟小调研” 提示信息
 
 ![](./assets/1分钟小调研.jpg)
 
 ### {"id":"应用内更新权限","action":"buttonDefaultNegative"}
-去除应用内更新权限弹窗
+关闭应用内更新权限弹窗
 
 ![](./assets/应用内更新权限弹窗.jpg)
 
+
+
+### {"id":"497,1895,583,1981","action":"497,1895,583,1981"}
+关闭红包弹窗
+
+![](./assets/红包弹窗.jpg)
 
 ## 增强规则
